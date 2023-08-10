@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Tommy",
+      "job": "Software Engineer",
+      "pay": 150000
+    },
+    {
+      "name": "Sally",
+      "job": "Manager",
+      "pay": 85000
+    },
+    {
+      "name": "Jeremy",
+      "job": "McDonalds Worker",
+      "pay": 35000
+    }
+  ]
+}
